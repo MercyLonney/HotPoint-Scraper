@@ -1,5 +1,5 @@
 # HotPoint Scraper
-A simple Python web scraper that collects product information from the HotPoimt Appliances Kenya TVs category.
+A simple Python web scraper that collects product information from the HotPoint Appliances Kenya TVs category.
 
 ## What it collects:
 -Product name
